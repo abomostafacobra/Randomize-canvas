@@ -19,3 +19,9 @@
 > Accepts colors in hex only, Like ``` data-bg="#ff0" ``` or ``` data-bg="#ffff00" ```
 - use ``` data-shape-size="" ``` to set the max size of shapes.
 > Accepts numbers only
+- use ``` data-loops="" ``` to set the count of shapes
+> Accepts numbers only
+- use ``` data-radius="" ``` to make a rectangle with curvy corners.
+> Accepts numbers only.
+
+#### Preview
